@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Prateek Kumar Pandey
 
-<!--
-**prateek9988pandey-rgb/prateek9988pandey-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Branch: CSE (Cloud Computing & Automation)
+📅 Year: First Year
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+I am a result-driven student and I want to learn AutoCAD and enhance my technical skills.
+
+---
+
+💻 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>---
+
+🎯 Goals
+
+- Learn AutoCAD 🛠️
+- Improve programming skills 💻
+- Explore cloud computing and automation ☁️
+- Build real-world projects 🚀
+
+---
+
+📫 Connect with Me
+
+- GitHub: https://github.com/your-username
