@@ -17,7 +17,8 @@ I am a result-driven student and I want to learn AutoCAD and enhance my technica
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=python" />
-  https://www.bing.com/images/search?q=MySQL+Logo+Transparent+Background&FORM=IRTRRL
+  <img src="https://skillicons.dev/icons?i=mysql" />
+
 </p>---
 
 🎯 Goals
